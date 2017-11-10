@@ -1,5 +1,4 @@
 ## 前言
----
 
 > 这段时间看完了 **《编码的奥秘》**和 **《程序是怎样跑起来的》**这两本书，我想尝试用大白话聊聊计算机组成原理。在 **《程序是怎样跑起来的》** 这本书中，有几个故事片段：***向小学生讲解 CPU 和二进制、向沉迷游戏的中学生讲解内存和磁盘、向喜欢玩手机的女高中生讲解操作系统的作用、向邻居老太太说明显示器和电视机的不同***。我觉得作者的想法太棒了，将晦涩难懂的计算机知识以通俗的方式讲解给不太了解计算机知识的人，这样不仅有利于我们自己对计算机的理解，同时也能让更多的人了解计算机知识。  
 > 
@@ -8,7 +7,6 @@
 > **小白**是我一同学以牙还牙给我的外号，我觉得这外号太赞了，因为我在技术上是个小白。
 
 ## 小白和老妈的聊天记录
----
 
 > **老妈:** 儿子，你能给老妈讲讲你的工作具体是干什么的吗？  
 >
@@ -28,7 +26,7 @@
 >
 > **小白:** 哈哈，您真幽默！我来慢慢给您解释。我们平常生活中所说的计算机，一般是指**计算器**，用来在购买商品时计算价钱用的。而我现在说的计算机不是用来做简单算术的计算器，我所说的计算机就是您给我买的电脑。严格来说，您给我买的**电脑**叫做**个人计算机**，是计算机的一种。电脑是我工作的工具。
 ![计算器](http://upload-images.jianshu.io/upload_images/2180894-5abc881688df65c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![个人计算机(电脑)](http://upload-images.jianshu.io/upload_images/2180894-eb67b4a3ba53b6b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![个人计算机(电脑)](http://upload-images.jianshu.io/upload_images/2180894-eb67b4a3ba53b6b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)    
 >
 > **老妈:** 你这信息量有点大，你老妈我有点懵。你能讲讲那计算器，哦，不对，就是你那计算机到底是个什么玩意，你又是如何用它来工作的，你的工作内容又是什么？
 > 
@@ -66,7 +64,7 @@
 > **老妈:** 这我就猜不到了。
 >
 > **小白:** 没事，让我来为您揭开谜底，咱们先看下面这张表格。
-> ![电脑是如何表示骰子的六个面的](http://upload-images.jianshu.io/upload_images/2180894-456a1099ed8ef81e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![电脑是如何表示骰子的六个面的](http://upload-images.jianshu.io/upload_images/2180894-456a1099ed8ef81e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)    
 > 是不是很神奇，电脑竟然能用 0 和 1 的组合来表示骰子的六个面。
 >
 > **老妈:** 难道电脑只能用 0 和 1 来表示 6 以内的这些简单数字吗？
@@ -76,7 +74,7 @@
 > **老妈:** 难道电脑就只能用 0 和 1 表示数字吗？
 > 
 > **小白:** 那肯定不是啦，让我再来为您举个例子。
-> ![用 0 和 1 给小朋友起名字](http://upload-images.jianshu.io/upload_images/2180894-ccb753377b6eadf2.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![用 0 和 1 给小朋友起名字](http://upload-images.jianshu.io/upload_images/2180894-ccb753377b6eadf2.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)      
 > 您看，上图的表格张有四个小朋友的名字，现在我用 0 和 1 给他们分别起了一个新名字，让电脑能够认识这些可爱的小家伙们。
 > 通过这三个例子，我们可以发现，我们可以用 0 和 1 表达任何信息。关于 0 和 1 的故事还有更加复杂的，我们就不再追究了，重要的是我们知道 0 和 1 是电脑的语言。
 >
@@ -90,7 +88,7 @@
 > **老妈:** 不知道。。。
 >
 > **小白:** 因为电脑确实有一个大脑，让我们先看看它长啥样。
-> ![计算机的大脑——西皮柚 (CPU)](http://upload-images.jianshu.io/upload_images/2180894-924254643c2676c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![计算机的大脑——西皮柚 (CPU)](http://upload-images.jianshu.io/upload_images/2180894-924254643c2676c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)      
 >
 > **老妈:** 这就是电脑的大脑了呢？可别糊弄我哦。
 >
