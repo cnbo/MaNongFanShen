@@ -25,10 +25,8 @@
 > **老妈:** 不对啊，你在学校学的不是电脑吗，怎么是和计算器打交道呢？
 >
 > **小白:** 哈哈，您真幽默！我来慢慢给您解释。我们平常生活中所说的计算机，一般是指**计算器**，用来在购买商品时计算价钱用的。而我现在说的计算机不是用来做简单算术的计算器，我所说的计算机就是您给我买的电脑。严格来说，您给我买的**电脑**叫做**个人计算机**，是计算机的一种。电脑是我工作的工具。   
-
-![计算器](http://upload-images.jianshu.io/upload_images/2180894-5abc881688df65c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
-![个人计算机(电脑)](http://upload-images.jianshu.io/upload_images/2180894-eb67b4a3ba53b6b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)      
-
+>![计算器](http://upload-images.jianshu.io/upload_images/2180894-5abc881688df65c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
+>![个人计算机(电脑)](http://upload-images.jianshu.io/upload_images/2180894-eb67b4a3ba53b6b4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)      
 >
 > **老妈:** 你这信息量有点大，你老妈我有点懵。你能讲讲那计算器，哦，不对，就是你那计算机到底是个什么玩意，你又是如何用它来工作的，你的工作内容又是什么？
 >
@@ -119,7 +117,8 @@
 > **老妈:** 既然我们现在知道电脑的语言是 0 和 1 了，那你是如何与它交流的呢？
 >
 > **小白:** 因为我和电脑之间用的是两种不同的语言，所以这个交流的过程非常曲折。让我们先来看看生活中的电脑是由那几部分组成的。
-> 图：笔记本  图：台式机
+>![笔记本](http://upload-images.jianshu.io/upload_images/2180894-639031ceffe06963.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![台式电脑](http://upload-images.jianshu.io/upload_images/2180894-97ce560581f8b437.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 上面两张图是我们生活中所能接触到的电脑，左图我们称之为笔记本，右图我们称之为台式电脑，从图中我们可以看出，它们都有一个键盘、一个鼠标和一个显示器。
 >
 > **老妈:** 右图中不是还有一个大黑箱子吗，那个黑箱子是什么东西，为什么笔记本没有呢？
@@ -130,7 +129,7 @@
 >
 > **小白:** 键盘是一个输入设备，我们通过键盘将我的话和数据告诉电脑；显示器是一个输出设备，我们可以通过显示器看到电脑给我们反馈的结果。输入和输出设备还有很多，比如话筒 (输入设备)、音响 (输出设备)等等。  
 > 我们接着来看一下我和电脑交流的简要过程图。  
->  图
+>  ![小白和电脑交流的过程图](http://upload-images.jianshu.io/upload_images/2180894-ae6d9ca19cf40628.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 > 通过上面的图，我们可以发现，其实我和电脑交流，本质上是和它的西皮柚交流。  
 >
 > **老妈:** 怎么图中还有一个翻译官？
@@ -157,12 +156,17 @@
 >
 > **小白:** 无图无真相，我们来看看电脑的那个黑箱子除了西皮柚子还有些啥玩意儿。  
 >
-> **图**
->
+> ![电脑内部的关键组成部分](http://upload-images.jianshu.io/upload_images/2180894-d13cc1e20fd15f4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 >
 > **老妈:** 这图里面都是些啥东西啊？
 >
 > **小白:** 您别看图中有各种您看不懂的名词，其实它们也那么高冷。图中的硬盘、内存都是用于存储信息的
+
+
+
+
+
+
 
 
 
