@@ -1,6 +1,7 @@
 ## 读取配置文件 struts.xml
 
-'''
+```
+
 public class Struts {
   public static View runAction(String actionName, Map<String, String> params) {
     /**
@@ -21,11 +22,12 @@ public class Struts {
     Map<String, String> parameters;
   }
 }
-'''
+
+```
 
 ## 数据结构
 
-'''
+```
 
 public class ArrayUtil {
   /**
@@ -100,5 +102,7 @@ public class ArrayUtil {
      return null;
    }
 
-
 }
+
+```
+
