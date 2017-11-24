@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<struts>
+	
+	<!-- 配置為開發模式，一旦文件改動，不需要重啟 -->
+	<package name="login" namespace="/" extends="ssh">
+		<action name="login" class="LoginAction">
+			<result name="success">/WEB-INF/user/login.jsp</result>
+			<result name="error">/WEB-INF/user/loginError.jsp</result>
+		</action>
+		<action name="userLogin" class="com.foxconn.bo.controller.LoginAction" method="userLogin">
+			<result name="error">/WEB-INF/user/login.jsp</result>
+			<result name="success" type="redirect">/userManage</result>
+		</action>
+	</package>
+	
+</struts>
